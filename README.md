@@ -11,12 +11,14 @@ This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicat
 Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
 -->
 
-- 🔭 I'm currently working **with IT support**
-- 🌱 I’m currently learning **Python and R**
-- 👯 I'm looking to collaborate **with projects as a data analyst**
-- 📫 How to reach me **evanio.a.lima@outlook.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/ev%C3%A2nio-araujo-de-lima-8919b8b5/](https://www.linkedin.com/in/ev%C3%A2nio-araujo-de-lima-8919b8b5/)
-- ⚡ Fun fact **I love video games and I like to walk**
+-  I'm currently working **with IT support**
+-  I’m currently learning **Python and R**
+-  I'm looking to collaborate **with projects as a data analyst**
+-  How to reach me **evanio.a.lima@outlook.com**
+-  Know about my experiences [https://www.linkedin.com/in/ev%C3%A2nio-araujo-de-lima-8919b8b5/](https://www.linkedin.com/in/ev%C3%A2nio-araujo-de-lima-8919b8b5/)
+-  Fun fact **I love video games and I like to walk**
+-  Skills: I communicate well, intermediate English, I like to work in a team, I always try to do my tasks with total dedication and well executed.
+-  Tools I know how to use for data analysis: Power Bi (ETL techniques, dax and dashboards), intermediate Excel, basic SQL.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +28,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
+<h3 align="left"> Github Metrics: </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evaniolima&show_icons=true&locale=en" alt="evaniolima" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evaniolima&" alt="evaniolima" /></p>
