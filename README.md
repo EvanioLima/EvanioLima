@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Evânio Lima</h1>
-<h3 align="center">a data analyst fascinated to learn more</h3>
+<p align="center">
+  <img src="https://github.com/EvanioLima/EvanioLima/raw/main/assets/header-github.gif" alt="Hi, I'm Evânio Lima">
+</p>
+
+<!--
+How to make this gif ?
+Thanks to Matyo91 / (https://github.com/Matyo91)
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
+Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
+-->
 
 - 🔭 I'm currently working **with IT support**
 - 🌱 I’m currently learning **Python and R**
