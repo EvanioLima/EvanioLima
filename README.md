@@ -1,20 +1,11 @@
 <h1 align="center">Hi 👋, I'm Evânio Lima</h1>
 <h3 align="center">a data analyst fascinated to learn more</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=evaniolima&label=Profile%20views&color=0e75b6&style=flat" alt="evaniolima" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evaniolima" alt="evaniolima" /></a> </p>
-
 - 🔭 I'm currently working **with IT support**
-
 - 🌱 I’m currently learning **Python and R**
-
 - 👯 I'm looking to collaborate **with projects as a data analyst**
-
 - 📫 How to reach me **evanio.a.lima@outlook.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/ev%C3%A2nio-araujo-de-lima-8919b8b5/](https://www.linkedin.com/in/ev%C3%A2nio-araujo-de-lima-8919b8b5/)
-
 - ⚡ Fun fact **I love video games and I like to walk**
 
 <h3 align="left">Connect with me:</h3>
@@ -31,7 +22,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evaniolima&" alt="evaniolima" /></p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=evaniolima&label=Profile%20views&color=0e75b6&style=flat" alt="evaniolima" /> </p>
 
 <!--
 **EvanioLima/EvanioLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,4 +37,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evaniolima" alt="evaniolima" /></a> </p>
 -->
